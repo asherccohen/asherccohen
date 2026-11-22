@@ -1,63 +1,68 @@
-### Hi there 👋
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asher Cohen
-===================================================================================================================================
+# Asher Cohen
 
-Software Developer, Software Advocate and Passionate Technologist
------------------------------------------------------------------
+**Principal-level Software Architect · Systems & Platform Engineer · Full-stack Developer**
 
-I use code to solve problems and architect solutions to make peoples’ lives better! Also crazy about JavaScript/TypeScript
+I design, scale, and operate business-critical software. Over 10+ years, I've worked across financial services, education, transport, and commerce—turning complex requirements into reliable platforms, clear architecture, and products shipped end to end.
 
-* 🌍  I'm based in Switzerland
-* 🧠  I'm learning Xstate, Prisma
-* 🤝  I'm open to collaborating on Interesting projects
+Based in Switzerland. Fluent in **English, French, and Italian**; elementary German.
 
-<a href="https://www.twitter.com/code_tank_dev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/code_tank_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=312e81"
-/></a>
+[Portfolio](https://asherccohen.com/) · [LinkedIn](https://www.linkedin.com/in/asher-cassetto) · [GitHub](https://github.com/asherccohen) · [X](https://x.com/code_tank_dev)
 
-### Skills
+## What I work on
 
+- **Software architecture & platform engineering** — evolvable systems, frontend platforms, microfrontends, API-first design, and technical standards.
+- **Engineering leadership** — cross-team alignment, mentoring, architecture direction, and helping teams deliver independently.
+- **Reliable product delivery** — performance, observability, CI/CD, testability, and operational excellence.
+- **Generative UI & applied AI** — exploring practical LLM-powered workflows and automation.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-</p>
+## Selected impact
 
+- At **UBS**, help align frontend practices across **9 Pods**, build enterprise-scale customer-facing applications, and contribute to the cross-functional AI Think Tank.
+- At **SwissQuant**, led frontend architecture for financial products, helped build a React and Storybook design system, and mentored **five developers**.
+- At **EF Education First**, reduced bundle size by **50%** and improved Time to Interactive by **30%** through performance work.
+- At **Onedot**, improved a React data grid to support datasets of up to **one million rows**.
+- At **Transport for London**, delivered agent tools, customer-service platforms, and data-analysis applications; received **three Spotlight awards**.
+- Earlier, built business software and automation for a specialist food exporter, including a custom CMS serving **2,000 customers**.
 
-### Socials
+## Selected projects
 
-<p align="left"> <a href="https://www.github.com/asherccohen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/asher-cassetto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/ashercohen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/code_tank_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+| Project | What it does |
+| --- | --- |
+| [Bordelaise](https://www.bordelaise.co.uk/) | Multi-location restaurant website with menus, location discovery, and online reservations. |
+| [Rota-Craft](https://rota-craft.asherccohen.com/) · [Source](https://github.com/asherccohen/rota-craft) | Hospitality staff scheduling SaaS for rota planning, absences, contracts, and shift publishing. |
+| [Bonsai Zen](https://bonsaizen.asherccohen.com/) · [Source](https://github.com/asherccohen/bonsai-training) | Bonsai care platform with species-aware guidance, care plans, and collection journaling. |
+| [Wealth Management](https://wealth.asherccohen.com/) · [Source](https://github.com/asherccohen/wealth-management) | Investment dashboard that consolidates portfolio data and provides performance analysis. |
 
-### Badges
+## Experience
 
-<a href="https://github.com/asherccohen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asherccohen&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- **UBS** — Software Engineer, Frontend · Oct 2023–present
+- **SwissQuant Group** — Tech Lead / Front-end JavaScript Developer · Jan 2021–Oct 2023
+- **EF Education First** — Full-stack JavaScript Developer · Nov 2019–Aug 2020
+- **Onedot** — Front-end JavaScript Developer · May 2019–Oct 2019
+- **Freekik** — Full-stack JavaScript Developer · Nov 2018–Apr 2019
+- **Transport for London** — Consultant, Software Developer · Feb 2017–Dec 2018
+- **Earlier work** — Freelance development, IT administration, and software delivery · 2005–2017
 
-<b>Top Repositories</b>
+## Technologies
 
-<div width="100%" align="center"><a href="https://github.com/asherccohen/radix-ui" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=asherccohen&repo=radix-ui&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/asherccohen/redux" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=asherccohen&repo=redux&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+**Frontend:** React, React Native, Next.js, TypeScript, Vue.js, Tailwind CSS, Three.js, WebGL, Storybook  
+**Backend & data:** Node.js, GraphQL, PostgreSQL, Redis, MongoDB, SQLite, Drizzle  
+**AI & automation:** OpenAI, LangChain, Vercel AI SDK, LLM integrations, Node-RED  
+**Engineering:** System design, microfrontends, design systems, CI/CD, Docker, TDD, Jest, Cypress, Vitest, Playwright
 
-<br /><br /><br /><br /><br />
+## Open source
 
-<div width="100%" align="center"><a href="https://github.com/asherccohen/stately" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=asherccohen&repo=stately&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" /></a></div>
+I contribute to and learn from the wider JavaScript ecosystem, including **Redux**, **XState**, and **React Table**.
 
-### Support Me
+## Certifications
 
-<a href="https://www.buymeacoffee.com/ashercohen"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+- [UBS Certified Engineer](https://www.credly.com/badges/ed25f781-3f9e-4ab4-a9ad-2ff7d74c878d/linked_in_profile) · Mar 2025
+- [Introduction to GitHub Copilot](https://www.coursera.org/account/accomplishments/verify/KN1C75TFXTCF) · Microsoft · Aug 2025
+- [Green Software for Practitioners (LFC131)](https://www.credly.com/badges/fe306b1e-7bdb-46ba-965f-22ffad4d2744/linked_in_profile) · Linux Foundation · Jun 2024
+- [Introduction to Node.js (LFW111)](https://www.credly.com/badges/67b57da6-8113-4d88-bf53-35be72b61bce/linked_in_profile) · Linux Foundation · Jun 2024
+
+---
+
+I enjoy working on problems where thoughtful architecture, strong engineering practices, and product outcomes reinforce one another.
+
+**More:** [Portfolio and full CV](https://asherccohen.com/)
